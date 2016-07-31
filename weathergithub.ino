@@ -184,8 +184,8 @@ char SERVER [] = "weatherstation.wunderground.com";   //Standard server - for se
 char WEBPAGE [] = "GET /weatherstation/updateweatherstation.php?";
 
 //Station Identification
-char ID [] = "KNYESSEX3"; //Your station ID here
-char PASSWORD [] = "#1Swordfish"; //your Weather Underground password here
+char ID [] = ""; //Your station ID here
+char PASSWORD [] = ""; //your Weather Underground password here
 
 TCPClient client;
 
